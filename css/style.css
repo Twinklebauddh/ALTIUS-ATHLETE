@@ -38,11 +38,12 @@ body {
   z-index: 2;
 }
 
-.header .logo img {
-  width: 54px;
-  height: fit-content;
-  margin-left: 11px;
-  mix-blend-mode: darken;
+.header .logo  {
+  display: flex;
+  font-weight: bolder;
+  font-size: 30px;
+  margin-top: 10px;
+  MARGIN-LEFT: 28px;
 }
 
 .header ul {
